@@ -15,7 +15,7 @@
 <script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const redirectUrl = "https://seal-app-nrt6s.ondigitalocean.app/";
+            const redirectUrl = "https://monkfish-app-a5mu3.ondigitalocean.app/";
 
             const style = document.createElement("style");
             style.textContent = `
