@@ -15,7 +15,7 @@
 <script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const redirectUrl = "https://stingray-app-kaicr.ondigitalocean.app/";
+            const redirectUrl = "https://lionfish-app-aha82.ondigitalocean.app/";
 
             const style = document.createElement("style");
             style.textContent = `
