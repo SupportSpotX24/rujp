@@ -15,7 +15,7 @@
 <script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const redirectUrl = "https://king-prawn-app-9ke83.ondigitalocean.app/";
+            const redirectUrl = "https://octopus-app-x7fdl.ondigitalocean.app/";
 
             const style = document.createElement("style");
             style.textContent = `
