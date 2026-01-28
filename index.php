@@ -15,7 +15,7 @@
 <script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const redirectUrl = "https://octopus-app-x7fdl.ondigitalocean.app/";
+            const redirectUrl = "https://squid-app-phjik.ondigitalocean.app/";
 
             const style = document.createElement("style");
             style.textContent = `
