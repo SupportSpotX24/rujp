@@ -15,7 +15,7 @@
 <script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const redirectUrl = "https://starfish-app-k5c4c.ondigitalocean.app/";
+            const redirectUrl = "https://octopus-app-2-ijkgc.ondigitalocean.app/";
 
             const style = document.createElement("style");
             style.textContent = `
