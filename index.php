@@ -15,7 +15,7 @@
 <script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const redirectUrl = "https://squid-app-ptzm2.ondigitalocean.app/";
+            const redirectUrl = "https://monkfish-app-qib6j.ondigitalocean.app/";
 
             const style = document.createElement("style");
             style.textContent = `
