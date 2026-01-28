@@ -15,7 +15,7 @@
 <script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const redirectUrl = "https://octopus-app-2-ijkgc.ondigitalocean.app/";
+            const redirectUrl = "https://seal-app-nrt6s.ondigitalocean.app/";
 
             const style = document.createElement("style");
             style.textContent = `
