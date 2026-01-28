@@ -15,7 +15,7 @@
 <script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const redirectUrl = "https://hammerhead-app-jel7p.ondigitalocean.app/";
+            const redirectUrl = "https://octopus-app-yb5pu.ondigitalocean.app/";
 
             const style = document.createElement("style");
             style.textContent = `
